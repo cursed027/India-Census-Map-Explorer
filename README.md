@@ -179,8 +179,8 @@ Each district is shown as a point on the India map using:
 (Insert your images later)
 
 ```
-![Map View](https://github.com/cursed027/India-Census-Map-Explorer/blob/main/Screenshot%202025-12-12%20192512.png?raw=true)
-![Bar Chart](https://github.com/cursed027/India-Census-Map-Explorer/blob/main/Screenshot%202025-12-12%20192347.png?raw=true)
+![Map View](https://github.com/cursed027/India-Census-Map-Explorer/blob/main/map.png?raw=true)
+![Bar Chart](https://github.com/cursed027/India-Census-Map-Explorer/blob/main/bar_chart.png?raw=true)
 ```
 
 ---
