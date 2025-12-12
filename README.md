@@ -1,8 +1,6 @@
-Here is the **README.md in perfect GitHub Markdown format**, clean, polished, and ready to paste into your repository.
-
 ---
 
-# 🇮🇳 India Census Map Explorer
+# India Census Map Explorer
 
 ### *A Streamlit + Plotly Interactive Dashboard for District-Level Census 2011 Analysis*
 
@@ -62,8 +60,7 @@ Useful for quick verification and exploring exact numeric values.
 📁 mini_proj/
 │── app.py
 │── README.md
-│── datasets/
-│    └── final_india.csv
+│── final_india.csv
 ```
 
 ---
@@ -116,7 +113,7 @@ This app uses a cleaned version of District-Level India Census 2011 containing:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/india-census-map-explorer.git
+git clone https://github.com/cursed027/India-Census-Map-Explorer/
 cd india-census-map-explorer
 ```
 
@@ -149,7 +146,7 @@ http://localhost:8501
 The CSV is automatically loaded from:
 
 ```
-datasets/final_india.csv
+final_india.csv
 ```
 
 ### 2. Sidebar Options
@@ -218,7 +215,6 @@ MIT License — you are free to use and modify the code.
 ## 👨‍💻 **Author**
 
 **Cursed027**
-Data Science & Visualization Enthusiast
 
 ---
 
